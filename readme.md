@@ -1,5 +1,7 @@
 # Pair Exercise #4: Wikipedia Content Downloader
 
+Team members: Rachan and Yasha
+
 This exercise involves writing a Python script to download and save Wikipedia content, both sequentially and concurrently. The script has been enhanced with command-line arguments for flexibility and outputs results into a single JSON file.
 
 ## Setup
